@@ -4,7 +4,7 @@ My first repository
 # H1 My Favorite Movies/Series
 
 1. Shrek
-   - Shrek is a large, green-skinned, physically intimidating ogre with a Scottish accent. In Shrek Forever After, however, it is revealed that he is much smaller than the average ogre. Even though his background is something of a mystery, according to Shrek The Musical, it is revealed that on his seventh birthday, Shrek was sent away by his parents, because it was an ogre tradition.
+   - Shrek is a large, green-skinned, physically intimidating ogre with a Scottish accent. In Shrek Forever After, however, it is revealed that he is much smaller than the average ogre. Even though his background is something of a mystery, according to Shrek The Musical, it is revealed that on his seventh birthday, Shrek was sent away by his parents, because it was an ogre tradition.j
      
 2. Barbie (film)
    - Barbie is a 2023 fantasy comedy film directed by Greta Gerwig from a screenplay she wrote with Noah Baumbach. Based on the eponymous fashion dolls by Mattel, it is the first live-action Barbie film after numerous computer-animated films and specials. The film stars Margot Robbie as the title character and Ryan Gosling as Ken, and follows the pair on a journey of self-discovery following an existential crisis. The supporting cast includes America Ferrera, Kate McKinnon, Issa Rae, Rhea Perlman, and Will Ferrell.
