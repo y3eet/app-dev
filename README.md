@@ -15,3 +15,6 @@ The franchise began with the 2010 film of the same name, which was followed by t
 
 4. Mr. bean
    - Bean (also known as Bean: The Ultimate Disaster Movie or Bean: The Movie) is a 1997 comedy film directed by Mel Smith and written by Richard Curtis and Robin Driscoll. Based on the British sitcom series Mr. Bean created by Rowan Atkinson and Curtis, the film stars Atkinson in the title role, with Peter MacNicol, Pamela Reed, Harris Yulin, Sandra Oh and Burt Reynolds in supporting roles. In the film, Bean works as a security guard at the National Gallery in London before being sent to the United States to talk about the unveiling of James Abbott McNeill Whistler's 1871 painting Whistler's Mother.
+
+5. Modified here
+6. 
